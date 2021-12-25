@@ -4,7 +4,8 @@ public class Basic {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.print("helloooooooo");
+		System.out.print("helloooooooo1");
+		System.out.print("helloooooooo2");
 
 	}
 
